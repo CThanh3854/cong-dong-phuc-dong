@@ -1,0 +1,6 @@
+{
+  "name": "Phúc Đồng – Những Mảnh Ghép Cộng Đồng Đô Thị",
+  "description": "Chuyên trang nghiên cứu và lưu trữ văn hóa cộng đồng đô thị và cộng đồng di cư tại Phúc Đồng, Long Biên, Hà Nội. Lịch sử hình thành, văn hóa bản địa, chân dung di cư, phong tục đời sống, hòa nhập và trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
